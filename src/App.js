@@ -116,7 +116,7 @@ const App = () => {
        
       
       </div>}
-      <footer className=" mt-2 absolute bottom-5">
+      <footer className=" mt-2 absolute bottom-2">
         <p className="text-white">Made with ❤️ by <a className="cursor-pointer font-semibold text-gitmain" target="_blank" href="https://linktr.ee/heisdinesh">heisdinesh</a></p>
       </footer>
     </div>
